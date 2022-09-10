@@ -1,0 +1,19 @@
+body{
+  background-color: #EAE3D2;
+  color: #1B2631;
+  font-family: "Verdana";
+}
+
+h1 {
+  color: #607EAA;
+  text-align: left;
+  font-family: "Verdana";
+  font-size: 20px;
+}
+
+iframe{
+  width: 500px;
+  height: 400px;
+  /*Sólo para que se vea, ya que la dirección al parecer está mal*/
+  border: 5px solid green;
+}
